@@ -1,3 +1,3 @@
-Esto es un archivo para hacer la primera práctica
+Este es un fichero para hacer la primera práctica de git
 
 La cosa se pone interesante
