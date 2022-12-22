@@ -3,3 +3,5 @@ Este es un fichero para hacer la primera práctica de git
 La cosa se pone interesante
 
 Esto es algo nuevo e interesante
+
+Lo nuevo y mejorado de nuestra nueva versión de nosotros mismos
